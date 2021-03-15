@@ -2,7 +2,7 @@
 layout: post
 title:  "不喜欢笑的棒球手不是一个好画家"
 image:
-  feature: IMG_5679.JPG
+  feature: 金珠.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -23,5 +23,3 @@ syntaxHighlighter: no
 我的老家在四川凉山州，我有彝族女子的个性，也有东北女子的女汉子味道，生气的时候爱撅嘴和歪头。
 
 很高兴认识你！
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}IMG_5679.JPG);"></div>
