@@ -2,7 +2,7 @@
 layout: post
 title:  "不喜欢笑的棒球手不是一个好画家"
 image:
-  feature: 金珠.jpg
+  feature: IMG_5679.JPG
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
