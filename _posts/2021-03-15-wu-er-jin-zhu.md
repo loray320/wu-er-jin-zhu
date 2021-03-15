@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "吾尔金朱"
+title:  "不喜欢笑的棒球手不是一个好画家"
 image:
   feature: IMG_5679.JPG
   topPosition: 0px
@@ -20,8 +20,8 @@ syntaxHighlighter: no
 
 我最喜欢的事情就是和其他小朋友们一起训练。
 
-![002.jpg](../assets/images/hero/8b35f73d692d4acb8ab339d50812ec4a.jpeg)
-
 我的老家在四川凉山州，我有彝族女子的个性，也有东北女子的女汉子味道，生气的时候爱撅嘴和歪头。
 
 很高兴认识你！
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}IMG_5679.JPG);"></div>
